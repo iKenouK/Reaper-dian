@@ -1,4 +1,4 @@
-Terms of Service — Reaper Dian [the Slayer]
+# Terms of Service — Reaper Dian [the Slayer]
 
 Last updated: August 2026
 
@@ -43,7 +43,7 @@ Reach the developer through the Discord server this bot operates in.
 
 
 
-# ==========================================================================================================================
+# ================================
 
 
 
