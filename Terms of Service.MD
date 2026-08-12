@@ -1,4 +1,4 @@
-Terms of Service — Reaper Dian [the Slayer]
+# Terms of Service — Reaper Dian [the Slayer]
 
 Last updated: August 2026
 
